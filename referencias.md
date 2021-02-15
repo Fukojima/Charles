@@ -1,0 +1,3 @@
+- https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04
+- https://www.luiztools.com.br/post/tutorial-crud-em-node-js-com-driver-nativo-do-mongodb/#3
+- $ ./usr/bin/mongo
